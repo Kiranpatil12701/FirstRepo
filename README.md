@@ -1,5 +1,4 @@
 # FirstRepo
-simple html Templete
 
 ## May Name Is Kiran Patil :imp:  
 
